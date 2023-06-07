@@ -1,5 +1,5 @@
 {% set name = "readthedocs-sphinx-ext" %}
-{% set version = "2.2.0" %}
+{% set version = "2.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/readthedocs-sphinx-ext-{{ version }}.tar.gz
-  sha256: e5effcd825816111a377ab7a897b819215138f8e5e8acc86f99218328f957240
+  sha256: e35ddacb52af972751926d01bcc082014751762d9ba68cb0c249df9edb216bbd
 
 build:
   noarch: python

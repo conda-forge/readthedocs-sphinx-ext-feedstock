@@ -1,11 +1,11 @@
-About readthedocs-sphinx-ext
-============================
+About readthedocs-sphinx-ext-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/readthedocs-sphinx-ext-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/readthedocs/readthedocs-sphinx-ext
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/readthedocs-sphinx-ext-feedstock/blob/main/LICENSE.txt)
 
 Summary: Sphinx extension for Read the Docs overrides
 
